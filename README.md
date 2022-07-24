@@ -1,2 +1,2 @@
 # project-bikcraft
- Meu projeto avançado de um site completo "com detalhes"
+ Meu projeto avançado de um site completo "Feito em curso"
