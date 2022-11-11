@@ -58,11 +58,11 @@ function trocarImagem(event){
   if(media){
     galeriaContainer.prepend(img)
   }
-  
 }
 
 function eventosGaleria(img){
-  img.addEventListener('click',trocarImagem)}
+  img.addEventListener('click',trocarImagem)
+}
 
 galeria.forEach(eventosGaleria)
 
